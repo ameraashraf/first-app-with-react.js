@@ -1,0 +1,8 @@
+nav {
+  background-color: #2c3e50;
+  transition: 0.4s all;
+  z-index: 9999999;
+}
+.navbar-brand {
+  font-weight: bold;
+}

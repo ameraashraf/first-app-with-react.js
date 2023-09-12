@@ -1,0 +1,12 @@
+.about {
+  color: white;
+  background-color: #1abc9c;
+  padding: 250px 0 140px 0;
+}
+.right,
+.left {
+  margin: 0px 15px;
+  background-color: white;
+  height: 4px;
+  width: 80px;
+}
