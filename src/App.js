@@ -20,6 +20,7 @@ const router = createBrowserRouter([
       { path: "portfolio", element: <Portfolio /> },
       { path: "contact", element: <Contact /> },
       { path: "*", element: <Error /> },
+      { path: "first-app-with-react.js", element: <Home /> },
     ],
   },
 ]);
